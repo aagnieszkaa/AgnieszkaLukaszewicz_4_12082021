@@ -1040,3 +1040,15 @@ h4 {
         text-align: center;
     }
 }
+/*Mes modifications*/
+img
+{
+    max-width: 100vw;;
+}
+@media screen and (max-width: 576px)
+{
+    .hero-bloc-text
+    {
+        font-size: 30px;
+    }
+}
